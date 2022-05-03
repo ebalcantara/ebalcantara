@@ -1,4 +1,4 @@
 ### Olá! Eu sou o Everson Batista 👋
 
-- 🌱 Estudando HTML, CSS e Javascript
+- 🌱 Estudando Data Science
 - 😄 Pronouns: Ele/Dele
